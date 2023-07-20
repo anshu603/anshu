@@ -1,2 +1,2 @@
 # anshu
-anshu repo for git command demonstration
+anshu repo for git command demonstration.
